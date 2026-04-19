@@ -22,6 +22,9 @@
 
 # misc
 .DS_Store
+
+# local scratch / nested clone (not part of this repo)
+/temp-portfolio
 *.pem
 
 # debug
