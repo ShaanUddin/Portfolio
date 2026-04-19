@@ -37,7 +37,7 @@ export const education = [
   {
     school: "IPEM International School and College, Prayagraj",
     degree: "ISC (12th Standard)",
-    detail: "87%",
+    detail: "82%",
     range: "2021",
   },
   {
